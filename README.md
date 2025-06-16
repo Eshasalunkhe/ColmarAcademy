@@ -17,27 +17,5 @@ overview:
 ![Uploading image.png…]()
 
 
-colmar-academy/
-│
-├── index.html # Main HTML file
-├── style.css # Styling for all sections
-├── README.md # Project description
-│
-├── images/ # Folder for all images (place actual image files here)
-│ ├── banner.jpg
-│ ├── information-main.jpg
-│ ├── information-orientation.jpg
-│ ├── information-campus.jpg
-│ ├── information-guest-lecture.jpg
-│ ├── course-software.jpg
-│ ├── course-computer-art.jpg
-│ ├── course-design.jpg
-│ ├── course-data.jpg
-│ ├── course-business.jpg
-│ ├── course-marketing.jpg
-│ ├── thesis-fisma.jpg
-│ ├── thesis-now-and-then.jpg
-│
-└── videos/
-└── thesis.mp4 # Thesis video
+
 
